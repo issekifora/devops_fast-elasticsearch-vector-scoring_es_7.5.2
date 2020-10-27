@@ -1,0 +1,4 @@
+com/liorkn/elasticsearch/EmbeddedElasticsearchServer.class
+com/liorkn/elasticsearch/TestObject.class
+com/liorkn/elasticsearch/PluginTest.class
+com/liorkn/elasticsearch/NodeExt.class

@@ -1,0 +1,5 @@
+com/liorkn/elasticsearch/plugin/VectorScoringPlugin.class
+com/liorkn/elasticsearch/engine/VectorScoringScriptEngine.class
+com/liorkn/elasticsearch/script/VectorScoreScript$VectorScoreScriptFactory.class
+com/liorkn/elasticsearch/script/VectorScoreScript.class
+com/liorkn/elasticsearch/Util.class

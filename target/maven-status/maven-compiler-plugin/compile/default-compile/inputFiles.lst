@@ -1,0 +1,4 @@
+/home/abashkin/fast-elasticsearch-vector-scoring/src/main/java/com/liorkn/elasticsearch/script/VectorScoreScript.java
+/home/abashkin/fast-elasticsearch-vector-scoring/src/main/java/com/liorkn/elasticsearch/engine/VectorScoringScriptEngine.java
+/home/abashkin/fast-elasticsearch-vector-scoring/src/main/java/com/liorkn/elasticsearch/plugin/VectorScoringPlugin.java
+/home/abashkin/fast-elasticsearch-vector-scoring/src/main/java/com/liorkn/elasticsearch/Util.java
